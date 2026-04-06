@@ -47,7 +47,9 @@ A simple and fun web app to organize Secret Santa gift exchanges effortlessly. A
 4. Open in browser:
    http://localhost:3000
 
-📂 Project Structure
+---
+
+## 📂 Project Structure
 .
 ├── index.html
 ├── style.css
@@ -58,5 +60,7 @@ A simple and fun web app to organize Secret Santa gift exchanges effortlessly. A
 ├── .firebaserc
 └── background.png
 
-👨‍💻 Author
+---
+
+## 👨‍💻 Author
 Made by Hiral
